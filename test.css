@@ -1,0 +1,147 @@
+.button{
+    background-color: rgb(109, 53, 95);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+}
+
+.button:hover{
+    background-color: rgb(199, 98, 174);
+}
+.five{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.five img{
+    width: 100%;
+    height: 100%;
+}
+.hidd{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+   
+}
+.hidd:hover {
+    opacity: 1;
+}
+.six{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.six img{
+    width: 100%;
+    height: 100%;
+}
+.seven{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.seven img{
+    width: 100%;
+    height: 100%;
+}
+.hidd2{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+}
+.hidd2:hover {
+    opacity: 1;
+}
+.hidd3{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+}
+.hidd3:hover {
+    opacity: 1;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+.two{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+.two img{
+    width: 100%;
+    height: 100%;
+}
+.three{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.three img{
+    width: 100%;
+    height: 100%;
+}
+.four{
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.four img{
+    width: 100%;
+    height: 100%;
+}
+.transation{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+}
+.transation:hover {
+    opacity: 1;
+}
+.transation2{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+}
+.transation2:hover {
+    opacity: 1;
+}
+.transation3{
+    position: absolute;
+    opacity: 0;
+    top: 0px;
+    left: 0px;
+    transition: opacity 0.5s ease;
+}
+.transation3:hover {
+    opacity: 1;
+}
+#x{
+font-size: 150%;
+}
+#y{
+    font-size: 150%;
+    color: black;
+}
+body{
+    background-color: rgb(50, 103, 119); 
+}
